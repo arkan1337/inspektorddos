@@ -58,7 +58,7 @@
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/HyukIsBack/inspektorsddos.git
+git clone https://github.com/HyukIsBack/inspektorddos.git
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
