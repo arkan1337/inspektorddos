@@ -890,7 +890,7 @@ def title():
     
     stdout.write("             "+Fore.RED            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.RED+"╔═════════╩═════════════════════════════════╩═════════╗\n")
-    stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen  "+Fore.RED  +"       ║        \n")
+    stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen          "+Fore.RED  +"       ║\n")
     stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"          Type [help] to see the Commands    "+Fore.RED +"       ║\n")
     stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - Discord: arkan#1847   "+Fore.RED +"       ║\n")
     stdout.write("             "+Fore.RED+"╚═════════════════════════════════════════════════════╝\n")
