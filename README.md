@@ -19,7 +19,7 @@
 </div>
 
 ## Menu
-![INSPEKTORS](https://user-images.githubusercontent.com/87601386/165147097-7f6f4f6d-f9fd-4a53-b3fa-a16fe739e963.png)
+![INSPEKTORS](https://media.discordapp.net/attachments/1081961071440564225/1084080747155046491/image.png?width=1290&height=345)
 
 ## Methods
 
