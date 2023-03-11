@@ -1,10 +1,10 @@
 <div align=center>
  
-# KARMA DDoS
+# INSPEKTORS DDoS
  <p>
- <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/HyukIsBack/KARMA-DDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/stars/HyukIsBack/INSPEKTORS-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/HyukIsBack/INSPEKTORS-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/license/HyukIsBack/INSPEKTORS-DDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
  
 </p>
  DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
@@ -19,7 +19,7 @@
 </div>
 
 ## Menu
-![karma](https://user-images.githubusercontent.com/87601386/165147097-7f6f4f6d-f9fd-4a53-b3fa-a16fe739e963.png)
+![INSPEKTORS](https://user-images.githubusercontent.com/87601386/165147097-7f6f4f6d-f9fd-4a53-b3fa-a16fe739e963.png)
 
 ## Methods
 
@@ -52,14 +52,13 @@
  - Subnet  | Subnet IP Address Lookup
 ```
 
-## Videos
-[![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
+# for help contact me on discord: arkan#1847
 
 ## Usage on Linux
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/HyukIsBack/KARMA-DDoS.git
+git clone https://github.com/HyukIsBack/inspektorsddos.git
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
