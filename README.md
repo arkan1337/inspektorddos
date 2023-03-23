@@ -19,7 +19,7 @@
 </div>
 
 ## Menu
-![INSPEKTORS](https://media.discordapp.net/attachments/1081961071440564225/1084080747155046491/image.png?width=1290&height=345)
+![INSPEKTORS](ez)
 
 ## Methods
 
